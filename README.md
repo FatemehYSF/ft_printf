@@ -509,15 +509,6 @@ This project is part of the 42 School curriculum. Feel free to use it for learni
 
 ---
 
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- 42 Login: `fyousefi`
-- Email: fyousefi@student.42.fr
-
----
-
 ## 🙏 Acknowledgments
 
 - **42 School** for the project subject and curriculum
