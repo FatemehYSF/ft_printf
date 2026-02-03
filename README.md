@@ -72,7 +72,7 @@ The function reproduces the behavior of `printf()` with a subset of its conversi
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ft_printf.git
+git clone https://github.com/FatemehYSF/ft_printf.git
 cd ft_printf
 
 # Compile the library
